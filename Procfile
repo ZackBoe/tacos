@@ -1,1 +1,1 @@
-web: node taco.js
+web: node tacos.js

@@ -7,7 +7,6 @@
   "dependencies": {
     "geoip-lite": "^1.1.4",
     "keen.io": "^0.1.2",
-    "node-static": "^0.7.6",
     "send": "^0.10.1",
     "swig": "^1.4.2"
   }
