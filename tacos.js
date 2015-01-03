@@ -11,7 +11,7 @@ var tacoLog = keen.configure({
 });
 
 // A fine selection of Taco Providers
-var tacoOptions = ['http://tacobell.com',"http://chipotle.com", "http://deltaco.com", "http://mightytaco.com"]
+var tacoOptions = ['http://tacobell.com',"http://chipotle.com", "http://deltaco.com", "http://mightytaco.com"];
 
 var server = http.createServer(function(req, res)
  {
